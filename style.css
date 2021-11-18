@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    background-color:lightpink;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.header_div{
+    background-color: white;
+    color: red;
+}
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px; 
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0%;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    line-height:3 ;
+    font-size: 18px;
+    width: 100%;
+    background-color: white;
+}
